@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "name": "Plate Plan",
+  "short_name": "Plate Plan",
+  "background_color": "#FFFFFF",
+  "theme_color": "#B2AC88",
+  "description": "An app to plan your daily meals and make food shopping easier",
+  "start_url": "https://plateplantwopointzero.vercel.app/",
+  "display": "standalone"
 }
