@@ -4,8 +4,7 @@ function Home (){
     return (
         <>
         <Layout>
-            <p>Hello</p>
-            <p>World!</p>
+            <p>Recipe List coming soon</p>
         </Layout>
         </>
     )
