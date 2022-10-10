@@ -1,6 +1,8 @@
+import StyledFooter from './Footer.styled.js';
+
 function Footer (){
     return (
-        <footer><p>Copyright by Laura Kesel 2022</p></footer>
+        <StyledFooter>Copyright by Laura Kesel 2022</StyledFooter>
     )
 }
 

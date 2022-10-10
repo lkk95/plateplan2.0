@@ -4,6 +4,7 @@ const StyledLayout = styled.section`
 display: grid;
 grid-template-rows: 1fr 4fr 1fr;
 height: 100vh;
+width: 100vw;
 margin: 1em 0;
 `;
 
