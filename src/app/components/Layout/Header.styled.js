@@ -3,6 +3,7 @@ import styled from 'styled-components';
 const StyledHeader = styled.header`
 display: flex;
 justify-content: space-around;
+align-items: center;
 grid-row-start: 1;
 grid-row-end: 2;
 margin: 0 1em;
